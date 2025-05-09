@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "name": "anhishake",
+      "email": "anhishake@gmail.com",
+      "role": "principle",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "aniruth",
+      "email": "aniruth@gmail.com",
+      "role": "hod",
+      "department": "cse",
+      "password": "1234"
+    },
+    {
+      "id": "6",
+      "name": "akshitha",
+      "email": "akshitha@gmail.com",
+      "role": "student",
+      "department": "cse",
+      "password": "1234"
+    }
+  ],
+  "sigupUsers": [
+    {
+      "id": "a481",
+      "name": "Anusuya",
+      "email": "anusuyaganapathy@yopmail.com",
+      "role": "hod",
+      "password": "Password1$",
+      "department": "ece"
+    },
+    {
+      "id": "b6f6",
+      "name": "Anusuya",
+      "email": "admin@yopmail.com",
+      "role": "admin",
+      "password": "12345678",
+      "department": ""
+    },
+    {
+      "name": "Anu",
+      "email": "Anu@gamil.com",
+      "role": "professor",
+      "password": "9876543210",
+      "department": "EEE",
+      "dob": "2025-05-16",
+      "address": "Ram Nagar",
+      "pincode": "600053",
+      "phone": "7358299324",
+      "id": "W6y1Edc"
+    },
+    {
+      "name": "harini",
+      "email": "harini@gmail.com",
+      "role": "professor",
+      "password": "123456789",
+      "department": "EEE",
+      "dob": "2025-05-19",
+      "address": "EVE crross stree",
+      "pincode": "600023",
+      "phone": "1234567890",
+      "id": "6VJRXUC"
+    },
+    {
+      "name": "surya@gmail.com",
+      "email": "surya@gamil.com",
+      "role": "HOD",
+      "password": "12345678",
+      "department": "IT",
+      "dob": "2025-05-17",
+      "address": "vijay street",
+      "pincode": "600093",
+      "phone": "1234567890",
+      "id": "TBxTAoz"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
